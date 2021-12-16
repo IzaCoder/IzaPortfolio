@@ -1,2 +1,2 @@
 # IzaPortfolio
-My Portfolio (work in progress)
+This is my portfolio website. It's a work in progress, so expect to see updates!
